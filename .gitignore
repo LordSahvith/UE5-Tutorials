@@ -80,6 +80,7 @@ enc_temp_folder/
 **/Assets/
 
 # Assets that are on Fab.com and should be installed from there
+**/LyraStarterGame/
 **/Content/*
 !**/Content/MyContent/
 !**/Content/MyContent/Assets/
