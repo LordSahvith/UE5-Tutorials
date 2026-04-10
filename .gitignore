@@ -84,6 +84,3 @@ enc_temp_folder/
 **/Content/*
 !**/Content/MyContent/
 !**/Content/MyContent/Assets/
-!**/Content/Audio/
-!**/Content/Weapons/
-!**/Content/Characters/
